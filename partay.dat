@@ -1,0 +1,34 @@
+3
+A P b c d e
+8
+A P 90
+A c 20
+c d 10
+d e 3
+b d 5
+b e 10
+A b 15
+e P 45
+A P b c d e f g
+13
+A c 20
+A d 15
+A P 97
+d e 40
+d f 30
+c e 15
+c f 10
+f b 9
+f g 7
+e P 45
+b g 3
+b P 15
+g P 17
+A P b c d
+6
+A c 53
+A P 84
+A b 40
+b d 40
+b c 23
+d P 10
